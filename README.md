@@ -11,12 +11,12 @@ Lista serwerów Minecraft - https://mcserwery.pl/
 | 6 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ W piątek o 18:00 nowa edycja SkyGen! | 34/500 | 4 |
 | 7 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A NASZE SERWERY STOJĄ NA 1.20.4 | 228/500 | 3 |
 | 8 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ Serwer zawieszony. Informacje na dc.byniumc.pl ⋆ Póki co, zapraszamy na serwer KretMC.pl | 0/500 | 3 |
-| 9 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Darencja | 1/100 | 2 |
+| 9 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Darencja | 2/100 | 2 |
 | 10 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ɴᴏᴡʏ ᴡɪᴘᴇ ᴛʀʏʙᴜ ʀᴜѕᴛ! ᴋɪᴛʏ ɪ ѕᴋʀᴢʏɴᴋɪ ᴡʟᴀᴄᴢᴏɴᴇ! | 5398/1 | 2 |
-| 11 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! >>> WŁAŚNIE TRWA EVENT - ZAPRASZAMY! <<< | 157/777 | 2 |
+| 11 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! > MAPA NETHERU < ZOSTAŁA OTWARTA > ZAPRASZAMY! < | 152/777 | 2 |
 | 12 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | ɴᴀᴊꜱᴍᴄ.ᴘʟ » ᴊᴇᴅʏɴʏ ᴘʀᴀᴡɪʟɴʏ ꜱᴇʀᴡᴇʀ! ɴᴏᴡʏ ꜱᴇᴢᴏɴ 08.03 18:00 ɪɴꜰᴏʀᴍᴀᴄᴊᴇ ᴅᴄ.ɴᴀᴊꜱᴍᴄ.ᴘʟ | 2/1 | 2 |
-| 13 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft  5 Sezon UHC Wystartowal! SKYGEN: Duza Aktualizacja! | 2707/20000 | 1 |
-| 14 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.16.5+ juz WYSTARTOWAL. » Graczy: {ONLINE_PLAYERS}/2000 « | 960/961 | 1 |
+| 13 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft  5 Sezon UHC Wystartowal! SKYGEN: Duza Aktualizacja! | 2804/20000 | 1 |
+| 14 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.16.5+ juz WYSTARTOWAL. » Graczy: {ONLINE_PLAYERS}/2000 « | 937/938 | 1 |
 | 15 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ Innowacyjny serwer (1.16 - 1.20.4) HARD└ Konferencja discord 17:00 | 1/2 | 1 |
 | 16 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.20.4 ❄ Zadania › Ekonomia › Działki › Eventy › Ryby ❄ | 41/200 | 1 |
 | 17 | 	[ggmc.pl](https://mcserwery.pl/serwery/minecraft/38/) | GGMC.PL  FRAKCJE - FREEBUILD - SKYBLOCK - SURVIVAL | 0/200 | 1 |
