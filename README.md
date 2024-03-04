@@ -1,7 +1,7 @@
 
 # McSerwery.pl
 Lista serwerów Minecraft - https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-04 18:16
+Ostatnia aktualizacja 2024-03-04 18:21
 | Ranking | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ⭐⭐ BLOKOWO.PL⭐ ꜱᴇʀᴡᴇʀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ⭐ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ!⭐ | 111/2000 | 36 |
@@ -14,9 +14,9 @@ Ostatnia aktualizacja 2024-03-04 18:16
 | 8 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ Serwer zawieszony. Informacje na dc.byniumc.pl ⋆ Póki co, zapraszamy na serwer KretMC.pl | 0/500 | 3 |
 | 9 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Darencja | 5/100 | 2 |
 | 10 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ɴᴏᴡʏ ᴡɪᴘᴇ ᴛʀʏʙᴜ ʀᴜѕᴛ! ᴋɪᴛʏ ɪ ѕᴋʀᴢʏɴᴋɪ ᴡʟᴀᴄᴢᴏɴᴇ! | 5393/1 | 2 |
-| 11 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! > MAPA NETHERU < ZOSTAŁA OTWARTA > ZAPRASZAMY! < | 152/777 | 2 |
+| 11 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! > MAPA NETHERU < ZOSTAŁA OTWARTA > ZAPRASZAMY! < | 165/777 | 2 |
 | 12 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | ɴᴀᴊꜱᴍᴄ.ᴘʟ » ᴊᴇᴅʏɴʏ ᴘʀᴀᴡɪʟɴʏ ꜱᴇʀᴡᴇʀ! ɴᴏᴡʏ ꜱᴇᴢᴏɴ 08.03 18:00 ɪɴꜰᴏʀᴍᴀᴄᴊᴇ ᴅᴄ.ɴᴀᴊꜱᴍᴄ.ᴘʟ | 3/1 | 2 |
-| 13 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft  5 Sezon UHC Wystartowal! SKYGEN: Duza Aktualizacja! | 2804/20000 | 1 |
+| 13 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft  5 Sezon UHC Wystartowal! SKYGEN: Duza Aktualizacja! | 2919/20000 | 1 |
 | 14 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.16.5+ juz WYSTARTOWAL. » Graczy: {ONLINE_PLAYERS}/2000 « | 976/977 | 1 |
 | 15 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ Innowacyjny serwer (1.16 - 1.20.4) HARD└ Konferencja discord 17:00 | 1/2 | 1 |
 | 16 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.20.4 ❄ Zadania › Ekonomia › Działki › Eventy › Ryby ❄ | 47/200 | 1 |
