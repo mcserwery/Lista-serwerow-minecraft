@@ -1,7 +1,7 @@
 
 # McSerwery.pl
 Lista serwerów Minecraft - https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-05 09:17
+Ostatnia aktualizacja 2024-03-05 09:19
 | Ranking | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ⭐⭐ BLOKOWO.PL⭐ ꜱᴇʀᴡᴇʀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ⭐ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ!⭐ | 10/2000 | 37 |
