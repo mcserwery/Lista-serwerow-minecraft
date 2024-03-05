@@ -1,10 +1,10 @@
 
 # McSerwery.pl
 Lista serwerów Minecraft - https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-05 09:9
+Ostatnia aktualizacja 2024-03-05 09:10
 | Ranking | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ⭐⭐ BLOKOWO.PL⭐ ꜱᴇʀᴡᴇʀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ⭐ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ!⭐ | 8/2000 | 37 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ⭐⭐ BLOKOWO.PL⭐ ꜱᴇʀᴡᴇʀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ⭐ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ!⭐ | 10/2000 | 37 |
 | 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴋʏʙʟᴏᴄᴋ 1.20 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 358/2000 | 104 |
 | 3 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | , MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.20 MegaDrop SkyBlock FreeBuild PvP Creative MiniGames Survival Gildie MEGADROP SKYBLOCK FREEBUILD CREATIVE CHESTPVP M | 8/100 | 10 |
 | 4 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.20 MegaDrop  SkyBlock  FreeBuild  ChestPvP  MiniGames  PVP  Creative  Survival + Gildie | 137/0 | 9 |
