@@ -1,36 +1,36 @@
 
 # McSerwery.pl
 Lista serwerów Minecraft - https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-07 00:3
+Ostatnia aktualizacja 2024-03-07 01:3
 | Ranking | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ⭐⭐ BLOKOWO.PL⭐ ꜱᴇʀᴡᴇʀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ⭐ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ!⭐ | 0/0 | 37 |
-| 2 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ W piątek o 18:00 nowa edycja SkyGen! | 11/500 | 4 |
-| 3 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A NASZE SERWERY STOJĄ NA 1.20.4 | 212/500 | 3 |
-| 4 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ Innowacyjny serwer (1.16 - 1.20.4) HARD└ Trwają prace... Zmieniamy się na lepsze | 2/3 | 1 |
-| 5 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl  Zagraj juz teraz razem z nami! | 10/500 | 1 |
-| 6 | 	[uwu.bedrockhost.pl](https://mcserwery.pl/serwery/minecraft/101/) | UwU.BedrockHost.pl  1.7.2-1.20.5 Zapraszamy! | 0/100 | 1 |
-| 7 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | ♥ INKMC.PL » Strona WWW: InkMC.pl ♥ ᴡʟᴇᴄɪᴀʟᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴀ ᴄʜᴇsᴛᴘᴠᴘ! sᴘʀᴀᴡᴅᴢ sᴀᴍ | 465/466 | 0 |
-| 8 | 	[jesion.pro](https://mcserwery.pl/serwery/minecraft/20/) | [jesion.pro] survival 1.20.1 !! bez p2w & fake slotów/graczy !! | 0/1 | 0 |
-| 9 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴅʀᴏᴘsᴍᴘ! ɴᴏᴡᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴀ ʙᴏxᴘᴠᴘ | 1102/1 | 0 |
-| 10 | 	[noobekpvp.pl](https://mcserwery.pl/serwery/minecraft/28/) | NOOBEKPVP.PL » Strona WWW: noobekpvp.pl ᴋɪᴛᴘᴠᴘ ᴡʟᴀꜱɴɪᴇ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟ, ᴡʙɪᴊᴀᴊ | 1/100 | 0 |
-| 11 | 	[skyblock.net](https://mcserwery.pl/serwery/minecraft/37/) | Skyblock ❘ Join our Discord! discord.gg/sb Now supporting Bedrock! | 210/750 | 0 |
-| 12 | 	[mineserwer.pl](https://mcserwery.pl/serwery/minecraft/70/) |  GRAJ Z NAJLEPSZYMI NA: HYPIXEL.PL  | 39/0 | 0 |
-| 13 | 	[mc.unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/102/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.20.4 ❄ Zadania › Ekonomia › Działki › Eventy › Ryby ❄ | 41/200 | 0 |
-| 14 | 	[hubmc.pl](https://mcserwery.pl/serwery/minecraft/104/) | ✰HUBMC.PL✰ [1.8-1.20.4] UNBAN ALL! | 7/700 | 0 |
-| 15 | 	[minecrafter.pl](https://mcserwery.pl/serwery/minecraft/105/) | Serwer nie posiada motd | 0/1000 | 0 |
-| 16 | 	[slaycraft.pl](https://mcserwery.pl/serwery/minecraft/110/) | Serwer nie posiada motd | 19/500 | 0 |
-| 17 | 	[badmc.pl](https://mcserwery.pl/serwery/minecraft/111/) | BADMC  Wbijaj pograc  1.17.1+  badmc.pl | 1/30 | 0 |
-| 18 | 	[keosmp.pl](https://mcserwery.pl/serwery/minecraft/112/) | Craftserve.pl - wydajny hosting Minecraft! Testuj za darmo przez 24h! | 0/1 | 0 |
-| 19 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl x ɴᴀsᴢᴀ sᴛʀᴏɴᴀ: behero.pl  ᴡʙɪᴊᴀᴊ ɴᴀ ɴᴀᴊʟᴇᴘꜱᴢʏ ꜱᴜʀᴠɪᴠᴀʟ ᴡ ᴘʟ | 23/24 | 0 |
-| 20 | 	[pvpsurvival.pl](https://mcserwery.pl/serwery/minecraft/127/) | TitanAXE | 0/50 | 0 |
-| 21 | 	[vemc.pl](https://mcserwery.pl/serwery/minecraft/131/) | VEMC.PL - Najlepsza siec serwerow w polsce! | 1/2115 | 0 |
-| 22 | 	[redlands.pl](https://mcserwery.pl/serwery/minecraft/132/) | A Minecraft Server | 0/100 | 0 |
-| 23 | 	[iskyblock.pl](https://mcserwery.pl/serwery/minecraft/133/) | ✯ iSkyBlock.pl ✯ Wersja: 1.16.X-1.20.4 ➠ CODZIENNE EVENTY BRAK DROPU ULEPSZENIA WYSP ETHER ♥ | 57/1337 | 0 |
-| 24 | 	[LuminCraft.pl](https://mcserwery.pl/serwery/minecraft/134/) | ʟᴜᴍɪɴᴄʀᴀғᴛ.ᴘʟ ! sᴜʀᴠɪᴠᴀʟ ! 1.17-1.20.4 ! ✨ ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ! ✨ ! KARNET » WYZWANIA » PORY ROKU | 5/2024 | 0 |
-| 25 | 	[km1.pl](https://mcserwery.pl/serwery/minecraft/136/) | -✯- KM1.PL -✯- 彡[ꜱᴜʀᴠɪᴠᴀʟ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟ]彡 | 0/250 | 0 |
-| 26 | 	[llobby.pl](https://mcserwery.pl/serwery/minecraft/137/) | Another Bungee server | 6/200 | 0 |
-| 27 | 	[TORMC.PL](https://mcserwery.pl/serwery/minecraft/138/) | TORMC.PL [1.8 - 1.20.4] Zapraszamy do gry na naszym serwerze! | 134/1000 | 0 |
-| 28 | 	[Minecrafter.pl](https://mcserwery.pl/serwery/minecraft/150/) | Serwer nie posiada motd | 0/1000 | 0 |
-| 29 | 	[minecold.pl](https://mcserwery.pl/serwery/minecraft/151/) | MineCold.pl - Twoja sieć serwerów BoxPvP > /kod vip KLUCZE 21:00 | 0/100 | 0 |
-| 30 | 	[bestmc.pl](https://mcserwery.pl/serwery/minecraft/154/) | Witaj na serwerze LSO NMP Zawiercie! | 0/35 | 0 |
+| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴋʏʙʟᴏᴄᴋ 1.20 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 0/0 | 106 |
+| 3 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | , MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.20 MegaDrop SkyBlock FreeBuild PvP Creative MiniGames Survival Gildie MEGADROP SKYBLOCK FREEBUILD CREATIVE CHESTPVP M | 0/0 | 12 |
+| 4 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.20 MegaDrop  SkyBlock  FreeBuild  ChestPvP  MiniGames  PVP  Creative  Survival + Gildie | 0/0 | 11 |
+| 5 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.20.4 » Zapraszamy » PvP » Ekonomia » Brak mikrotransakcji/P2W | 0/0 | 9 |
+| 6 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ W piątek o 18:00 nowa edycja SkyGen! | 0/0 | 4 |
+| 7 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A NASZE SERWERY STOJĄ NA 1.20.4 | 0/0 | 3 |
+| 8 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ Serwer zawieszony. Informacje na dc.byniumc.pl ⋆ Póki co, zapraszamy na serwer KretMC.pl | 0/0 | 3 |
+| 9 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Darencja | 0/0 | 2 |
+| 10 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ɴᴏᴡʏ ᴡɪᴘᴇ ᴛʀʏʙᴜ ʀᴜѕᴛ! ᴋɪᴛʏ ɪ ѕᴋʀᴢʏɴᴋɪ ᴡʟᴀᴄᴢᴏɴᴇ! | 0/0 | 2 |
+| 11 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! > MAPA NETHERU < ZOSTAŁA OTWARTA > ZAPRASZAMY! < | 0/0 | 2 |
+| 12 | 	[betterbox.mine.game](https://mcserwery.pl/serwery/minecraft/128/) | BetterBox - The Best BoxPvP Out There! Challenge Yourself, Dominate the Arena!Join the Battle and Claim Your Glory! | 0/0 | 2 |
+| 13 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | ɴᴀᴊꜱᴍᴄ.ᴘʟ » ᴊᴇᴅʏɴʏ ᴘʀᴀᴡɪʟɴʏ ꜱᴇʀᴡᴇʀ! ɴᴏᴡʏ ꜱᴇᴢᴏɴ 08.03 18:00 ɪɴꜰᴏʀᴍᴀᴄᴊᴇ ᴅᴄ.ɴᴀᴊꜱᴍᴄ.ᴘʟ | 0/0 | 2 |
+| 14 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft  5 Sezon UHC Wystartowal! SKYGEN: Duza Aktualizacja! | 0/0 | 1 |
+| 15 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.16.5+ juz WYSTARTOWAL. » Graczy: {ONLINE_PLAYERS}/2000 « | 0/0 | 1 |
+| 16 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ Innowacyjny serwer (1.16 - 1.20.4) HARD└ Trwają prace... Zmieniamy się na lepsze | 0/0 | 1 |
+| 17 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.20.4 ❄ Zadania › Ekonomia › Działki › Eventy › Ryby ❄ | 0/0 | 1 |
+| 18 | 	[ggmc.pl](https://mcserwery.pl/serwery/minecraft/38/) | GGMC.PL  FRAKCJE - FREEBUILD - SKYBLOCK - SURVIVAL | 0/0 | 1 |
+| 19 | 	[krainamc.pl](https://mcserwery.pl/serwery/minecraft/39/) | KrainaMc.pl  Zagraj juz teraz razem z nami! | 0/0 | 1 |
+| 20 | 	[bestmine.pl](https://mcserwery.pl/serwery/minecraft/41/) | BESTMINE.PL × NOWA EDYCJA SKYBLOCKA × UPDATE v1 × Boost SkyCoins /skycoins list | 0/0 | 1 |
+| 21 | 	[epic-rpg.pl](https://mcserwery.pl/serwery/minecraft/45/) | ===>Polskie Serwery Minecraft RPG<=== | 0/0 | 1 |
+| 22 | 	[skyup.pl](https://mcserwery.pl/serwery/minecraft/57/) | SKYUP.PL >> NOWA EDYCJA SKYBLOCK! Nowa edycja Skyblock wystartowała! | 0/0 | 1 |
+| 23 | 	[uwu.bedrockhost.pl](https://mcserwery.pl/serwery/minecraft/101/) | UwU.BedrockHost.pl  1.7.2-1.20.5 Zapraszamy! | 0/0 | 1 |
+| 24 | 	[IceSV.icsv.pl](https://mcserwery.pl/serwery/minecraft/103/) | Serwer Hostowany na IceHost.pl | 0/0 | 1 |
+| 25 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.20-1.16]  ⛏ Survival 1.20.4 ⛏  ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʙɪᴊᴀᴊ ◕‿◕ | 0/0 | 1 |
+| 26 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) |  mc-vision.pl  Survival 1.20.4  *** DARMOWY VIP, komenda /vip  | 0/0 | 1 |
+| 27 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL [SV+EKO+DZIAŁKI 1.20.1] DZIEKUJĘMY ZA EDYCJE - NIEDLUGO NOWA! 😊 | 0/0 | 1 |
+| 28 | 	[geodrop.pl](https://mcserwery.pl/serwery/minecraft/217/) | x GeoDrop.pl Serwer wystartował! Aktualnie organizowany jest event świąteczna wyspa o hajs! | 0/0 | 1 |
+| 29 | 	[DreamCube.pl](https://mcserwery.pl/serwery/minecraft/240/) | TRYPVP.PL Start za (mniej więcej) 3 lata pozdro | 0/0 | 1 |
+| 30 | 	[cozycafe.pl](https://mcserwery.pl/serwery/minecraft/250/) | AxolotlMC ❤ survival bez resetów map głównych. Odkryj urok axolotli na naszym serwerze! <3 | 0/0 | 1 |
