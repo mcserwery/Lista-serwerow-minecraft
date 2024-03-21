@@ -1,7 +1,7 @@
 
 # Lista serwerów minecraft
 Dane pobrane z https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-21 09:51
+Ostatnia aktualizacja 2024-03-21 10:51
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 0/0 | 38 |
@@ -10,9 +10,9 @@ Ostatnia aktualizacja 2024-03-21 09:51
 | 4 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.20 Nowa edycja trybu MEGADROP juz PIATEK 18:00 MegaDrop  OneBlock  SkyBlock  ChestPvP  MiniGames  Sky PvP  Creative  S | 0/0 | 23 |
 | 5 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.20.4 » Zapraszamy » PvP » Ekonomia » Brak mikrotransakcji/P2W | 0/0 | 19 |
 | 6 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.ICSV.PL » Prosty serwer minecraft 1.8-1.20 ;;; Nowa edycja MegaDrop Survival Gildie Piatek 18  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 0/0 | 5 |
-| 7 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Dodano budowanie i opcjonalne PvP na SkyGen! | 0/0 | 4 |
-| 8 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ BYNIU! wbijaj na serwer KretMC.pl ⋆ BYNIU! wbijaj na serwer KretMC.pl | 0/0 | 4 |
-| 9 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/0 | 4 |
+| 7 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/0 | 5 |
+| 8 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Dodano budowanie i opcjonalne PvP na SkyGen! | 0/0 | 4 |
+| 9 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ BYNIU! wbijaj na serwer KretMC.pl ⋆ BYNIU! wbijaj na serwer KretMC.pl | 0/0 | 4 |
 | 10 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 0/0 | 3 |
 | 11 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Serwer nie posiada motd | 0/0 | 2 |
 | 12 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ⚡ ѕᴛʀᴇꜰᴀ ʙᴇᴢ ᴇʟʏᴛʀ ᴢᴏѕᴛᴀʟᴀ ᴏᴛᴡᴀʀᴛᴀ ɴᴀ ʙᴏхᴘᴠᴘ ⚡ | 0/0 | 2 |
