@@ -1,14 +1,14 @@
 
 # Lista serwerów minecraft
 Dane pobrane z https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-22 02:51
+Ostatnia aktualizacja 2024-03-22 03:51
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 0/0 | 38 |
 | 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ꜱᴛᴀʀᴛ ᴘɪᴀᴛᴇᴋ 18:00! | 0/0 | 119 |
 | 3 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | , MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.20 , Nowa edycja trybu MEGADROP juz PIATEK 18:00! MegaDrop OneBlock FreeBuild PvP Creative MiniGames Survival Gildie  | 0/0 | 27 |
 | 4 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.20 Nowa edycja trybu MEGADROP juz PIATEK 18:00 MegaDrop  OneBlock  SkyBlock  ChestPvP  MiniGames  Sky PvP  Creative  S | 0/0 | 24 |
-| 5 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.20.4 » Zapraszamy » PvP » Ekonomia » Brak mikrotransakcji/P2W | 0/0 | 19 |
+| 5 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.20.4 » Zapraszamy » PvP » Ekonomia » Brak mikrotransakcji/P2W | 0/0 | 20 |
 | 6 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/0 | 6 |
 | 7 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.ICSV.PL » Prosty serwer minecraft 1.8-1.20 ;;; Nowa edycja MegaDrop Survival Gildie Piatek 18  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 0/0 | 5 |
 | 8 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Dodano budowanie i opcjonalne PvP na SkyGen! | 0/0 | 4 |
