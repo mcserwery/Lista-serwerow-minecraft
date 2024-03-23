@@ -1,7 +1,7 @@
 
 # Lista serwerów minecraft
 Dane pobrane z https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-23 14:51
+Ostatnia aktualizacja 2024-03-23 15:51
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 0/0 | 39 |
@@ -14,13 +14,13 @@ Ostatnia aktualizacja 2024-03-23 14:51
 | 8 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Dodano budowanie i opcjonalne PvP na SkyGen! | 0/0 | 4 |
 | 9 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ BYNIU! wbijaj na serwer KretMC.pl ⋆ BYNIU! wbijaj na serwer KretMC.pl | 0/0 | 4 |
 | 10 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 0/0 | 3 |
-| 11 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Serwer nie posiada motd | 0/0 | 2 |
-| 12 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ⚡ ѕᴛʀᴇꜰᴀ ʙᴇᴢ ᴇʟʏᴛʀ ᴢᴏѕᴛᴀʟᴀ ᴏᴛᴡᴀʀᴛᴀ ɴᴀ ʙᴏхᴘᴠᴘ ⚡ | 0/0 | 2 |
-| 13 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! Konkursy i eventy • Questy • Działki • WBIJAJ! | 0/0 | 2 |
-| 14 | 	[betterbox.mine.game](https://mcserwery.pl/serwery/minecraft/128/) | BetterBox - The Best BoxPvP Out There! Challenge Yourself, Dominate the Arena!Join the Battle and Claim Your Glory! | 0/0 | 2 |
-| 15 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) |   mc-vision.pl  Darmowy VIP /supervip   Nowa edycja Survival 1.20.2  | 0/0 | 2 |
-| 16 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | ɴᴀᴊꜱᴍᴄ.ᴘʟ » ᴊᴇᴅʏɴʏ ᴘʀᴀᴡɪʟɴʏ ꜱᴇʀᴡᴇʀ! ɪɪ ꜱᴇᴢᴏɴ ꜱᴇʀᴡᴇʀᴀ ᴡʟᴀꜱɴɪᴇ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟ, ᴡᴘᴀᴅᴀᴊ! | 0/0 | 2 |
-| 17 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl 1.8 - 1.20 Marcowe Skrzynie i Klucze w sklepie! | 0/0 | 1 |
+| 11 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl 1.8 - 1.20 Marcowe Skrzynie i Klucze w sklepie! | 0/0 | 2 |
+| 12 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Serwer nie posiada motd | 0/0 | 2 |
+| 13 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ANARCHIA.GG » ᴡʙɪᴊᴀᴊ ɴᴀ ᴅᴄ.ᴀɴᴀʀᴄʜɪᴀ.ɢɢ ⚡ ѕᴛʀᴇꜰᴀ ʙᴇᴢ ᴇʟʏᴛʀ ᴢᴏѕᴛᴀʟᴀ ᴏᴛᴡᴀʀᴛᴀ ɴᴀ ʙᴏхᴘᴠᴘ ⚡ | 0/0 | 2 |
+| 14 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! Konkursy i eventy • Questy • Działki • WBIJAJ! | 0/0 | 2 |
+| 15 | 	[betterbox.mine.game](https://mcserwery.pl/serwery/minecraft/128/) | BetterBox - The Best BoxPvP Out There! Challenge Yourself, Dominate the Arena!Join the Battle and Claim Your Glory! | 0/0 | 2 |
+| 16 | 	[mc-vision.pl](https://mcserwery.pl/serwery/minecraft/211/) |   mc-vision.pl  Darmowy VIP /supervip   Nowa edycja Survival 1.20.2  | 0/0 | 2 |
+| 17 | 	[NajsMC.pl](https://mcserwery.pl/serwery/minecraft/237/) | ɴᴀᴊꜱᴍᴄ.ᴘʟ » ᴊᴇᴅʏɴʏ ᴘʀᴀᴡɪʟɴʏ ꜱᴇʀᴡᴇʀ! ɪɪ ꜱᴇᴢᴏɴ ꜱᴇʀᴡᴇʀᴀ ᴡʟᴀꜱɴɪᴇ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟ, ᴡᴘᴀᴅᴀᴊ! | 0/0 | 2 |
 | 18 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.16.5+ juz WYSTARTOWAL. » Graczy: {ONLINE_PLAYERS}/2000 « | 0/0 | 1 |
 | 19 | 	[cubehard.net](https://mcserwery.pl/serwery/minecraft/10/) | CUBE┌ ɪɴɴᴏᴡᴀᴄʏᴊɴʏ ꜱᴇʀᴡᴇʀ (1.16 - 1.20.1) HARD└ Wbijaj się ponakur#@ać! | 0/0 | 1 |
 | 20 | 	[unitedcraft.pl](https://mcserwery.pl/serwery/minecraft/11/) | UnitedCraft.pl ¦ SURVIVAL & DUELS ¦ 1.20.4 ❄ Zadania › Ekonomia › Działki › Eventy › Ryby ❄ | 0/0 | 1 |
