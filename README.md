@@ -1,7 +1,7 @@
 
 # Lista serwerów minecraft
 Dane pobrane z https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-23 07:51
+Ostatnia aktualizacja 2024-03-23 08:51
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 0/0 | 39 |
