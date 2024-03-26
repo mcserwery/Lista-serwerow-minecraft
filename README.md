@@ -1,7 +1,7 @@
 
 # Lista serwerów minecraft
 Dane pobrane z https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-26 16:51
+Ostatnia aktualizacja 2024-03-26 17:51
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 67/2000 | 42 |
@@ -9,8 +9,8 @@ Ostatnia aktualizacja 2024-03-26 16:51
 | 3 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | , MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.20 MegaDrop OneBlock Dzialki ChestPvP Survival Parkour Survival Gildie MEGAENCHANT SKYBLOCK FREEBUILD CREATIVE PVP MI | 95/100 | 32 |
 | 4 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.20.4  MegaDrop  OneBlock  ChestPvP  Survival  Parkour  SkyBlock PvP  Cuboid  Gildie  Ekonomia | 237/0 | 30 |
 | 5 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.20.4 » Zapraszamy » PvP » Ekonomia » Brak mikrotransakcji/P2W | 0/50 | 21 |
-| 6 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 2/777 | 8 |
-| 7 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.MCKC.PL » Prosty serwer minecraft ❤ 1.8-1.20 ;;;  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 1320/2000 | 5 |
+| 6 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 4/777 | 8 |
+| 7 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.MCKC.PL » Twoj serwer minecraft 1.8.8 1.20.4 ;;;  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 1387/2000 | 5 |
 | 8 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Wbijaj na najfajniejszy serwer Minecraft! | 51/500 | 4 |
 | 9 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ BYNIU! wbijaj na serwer KretMC.pl ⋆ BYNIU! wbijaj na serwer KretMC.pl | 0/500 | 4 |
 | 10 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2838/0 | 4 |
