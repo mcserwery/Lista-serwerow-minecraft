@@ -1,19 +1,19 @@
 
 # Lista serwerów minecraft
 Dane pobrane z https://mcserwery.pl/
-Ostatnia aktualizacja 2024-03-27 07:51
+Ostatnia aktualizacja 2024-03-27 08:51
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 3/2000 | 42 |
-| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ᴊᴜᴢ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 320/2000 | 123 |
-| 3 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | , MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.20 MegaDrop OneBlock Dzialki ChestPvP Survival Parkour Survival Gildie MEGAENCHANT SKYBLOCK FREEBUILD CREATIVE PVP MI | 3/100 | 32 |
+| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ᴊᴜᴢ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 366/2000 | 123 |
+| 3 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | , MC.KEYCORE.PL » Strona: keycore.pl 1.8-1.20 MegaDrop OneBlock Dzialki ChestPvP Survival Parkour Survival Gildie MEGAENCHANT SKYBLOCK FREEBUILD CREATIVE PVP MI | 15/100 | 32 |
 | 4 | 	[keycraft.pl](https://mcserwery.pl/serwery/minecraft/255/) | KEYCRAFT.PL » Twoje centrum zabawy! 1.8-1.20.4  MegaDrop  OneBlock  ChestPvP  Survival  Parkour  SkyBlock PvP  Cuboid  Gildie  Ekonomia | 237/0 | 30 |
 | 5 | 	[playnopay.pl](https://mcserwery.pl/serwery/minecraft/257/) | [PlayNoPay] » 1.9 - 1.20.4 » Zapraszamy » PvP » Ekonomia » Brak mikrotransakcji/P2W | 0/50 | 22 |
-| 6 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/777 | 8 |
-| 7 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.MCKC.PL » Twoj serwer minecraft 1.8.8 1.20.4 ;;;  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 47/2000 | 5 |
+| 6 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 1/777 | 8 |
+| 7 | 	[sv.icsv.pl](https://mcserwery.pl/serwery/minecraft/261/) | ;;; SV.MCKC.PL » Twoj serwer minecraft 1.8.8 1.20.4 ;;;  Survival  Drop  Gildie  MegaDrop  PvP  EasyHC  Nowa edycja | 248/2000 | 5 |
 | 8 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Wbijaj na najfajniejszy serwer Minecraft! | 13/500 | 4 |
 | 9 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | ⋆ BYNIU! wbijaj na serwer KretMC.pl ⋆ BYNIU! wbijaj na serwer KretMC.pl | 0/500 | 4 |
-| 10 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2268/0 | 4 |
+| 10 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2211/0 | 4 |
 | 11 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 16/500 | 3 |
 | 12 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl 1.8 - 1.20 Marcowe Skrzynie i Klucze w sklepie! | 89/20000 | 2 |
 | 13 | 	[darencja.csrv.pl](https://mcserwery.pl/serwery/minecraft/9/) | Serwer nie posiada motd | 0/100 | 2 |
@@ -31,6 +31,6 @@ Ostatnia aktualizacja 2024-03-27 07:51
 | 25 | 	[skyup.pl](https://mcserwery.pl/serwery/minecraft/57/) | SKYUP.PL >> Mamy już ➈ lat! Weź udział w loterii dc.skyup.pl! | 20/500 | 1 |
 | 26 | 	[uwu.bedrockhost.pl](https://mcserwery.pl/serwery/minecraft/101/) | UwU.BedrockHost.pl  1.7.2-1.20.5 Zapraszamy! | 0/100 | 1 |
 | 27 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & BYNIU na zawsze -50zł!  kretmc.pl & Earth SMP >> 7 edycja wystartowala! | 15/500 | 1 |
-| 28 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.20-1.16]  ⛏ Survival 1.20.4 ⛏  ✿ EVENT WIELKANOC ✿ | 8/500 | 1 |
+| 28 | 	[KrystalMC.pl](https://mcserwery.pl/serwery/minecraft/202/) | KrystalMC.pl [1.20-1.16]  ⛏ Survival 1.20.4 ⛏  ✿ EVENT WIELKANOC ✿ | 23/500 | 1 |
 | 29 | 	[kociakmc.pl](https://mcserwery.pl/serwery/minecraft/213/) | KOCIAKMC.PL [SV+EKO+DZIAŁKI 1.20.1] DZIEKUJĘMY ZA EDYCJE - NIEDLUGO NOWA! 😊 | 0/100 | 1 |
 | 30 | 	[geodrop.pl](https://mcserwery.pl/serwery/minecraft/217/) | x GeoDrop.pl Serwer wystartował! Aktualnie organizowany jest event świąteczna wyspa o hajs! | 0/30 | 1 |
